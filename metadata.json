@@ -1,0 +1,6 @@
+{
+  "name": "NFC School Attendance",
+  "description": "Fast, simple, and reliable NFC-based school attendance system with offline sync and comprehensive dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
